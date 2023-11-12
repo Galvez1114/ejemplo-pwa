@@ -2,7 +2,7 @@
     "name": "Mi calculadora PWA",
     "short_name": "PWA",
     "description": "Una Progressive Web App de una calculadora simple",
-    "start_url": "./",
+    "start_url": "./index.html",
     "display": "standalone",
     "orientation": "any",
     "background_color": "#ffffff",
